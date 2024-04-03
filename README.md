@@ -1,4 +1,5 @@
 # Algorithm-Free-Man
+
 ### so this is a description written in 21/3/2023
 
 I wanna record my experience of algorithm here. And maybe Leetcode, nowcoder and virtual-Juage will be the first starring role.
