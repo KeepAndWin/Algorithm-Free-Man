@@ -140,7 +140,7 @@ class Solution {
 }
 ```
 
-![1713805799398](https://file+.vscode-resource.vscode-cdn.net/d%3A/Algorithm-Free-Man/LeetCode/datawhale/image/Record3/1713805799398.png)
+![1713806049554](image/Record3/1713806049554.png)
 效率提升了
 
 #### 2.0283. 移动零
